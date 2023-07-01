@@ -1,16 +1,3 @@
-# Project 3
+# MERN-Stack Infrastructure
 
-Express + Mongoose + React
-
-## Express
-
-server.js
-routes/movieRouter.js
-controllers/movieController.js
-models/Movie.js
-
-## React
-
-src/index.js -> App
-src/pages/ -> react router components
-src/components -> navbar etc (for components that don't belong in any page)
+Clone this repo to provide the starter code for a comprehensive MERN-Stack project including token-based authentication.
